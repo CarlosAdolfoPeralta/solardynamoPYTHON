@@ -87,7 +87,7 @@ Los principales parámetros utilizados por la simulación son los siguientes:
 
 * `leap2.py`: calcula la perturbación del flujo meridional inducida por el campo magnético.
 
-* `ws1alfaBL1.py`: evoluciona la vorticidad de retroalimentación y el término alfa asociado al mecanismo BL.
+* `ws1alfaBL1.py`: evoluciona la vorticidad de retroalimentación y el término alfa asociado al dínamo.
 
 * `suavixy.py`, `suavixy2d.py` y `suavixy2dbl.py`: aplican filtros y las condiciones de simetría ecuatorial utilizadas en el modelo.
 
