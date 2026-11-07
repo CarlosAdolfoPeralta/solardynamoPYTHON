@@ -1,3 +1,4 @@
+🇬🇧 [Read in English](README.md)
 # MODELO AXISIMÉTRICO DE DINAMO SOLAR
 
 ======================================
