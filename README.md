@@ -88,7 +88,7 @@ The main parameters used by the simulation are the following:
 
 * `leap2.py`: computes the perturbation of the meridional flow induced by the magnetic field.
 
-* `ws1alfaBL1.py`: evolves the feedback vorticity and the alpha term associated with the BL mechanism.
+* `ws1alfaBL1.py`: evolves the feedback vorticity and the alpha term associated with the dynamo.
 
 * `suavixy.py`, `suavixy2d.py` and `suavixy2dbl.py`: apply filters and the equatorial symmetry conditions used in the model.
 
