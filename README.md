@@ -2,7 +2,6 @@
 
 # AXISYMMETRIC SOLAR DYNAMO MODEL
 
-======================================
 
 ## PURPOSE
 
